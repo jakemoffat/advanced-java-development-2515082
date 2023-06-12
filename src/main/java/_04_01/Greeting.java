@@ -1,4 +1,4 @@
-package _04_01.end;
+package _04_01;
 
 @FunctionalInterface
 public interface Greeting {
